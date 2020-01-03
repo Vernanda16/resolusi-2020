@@ -18,8 +18,7 @@ Resolusi 2020
 - Belajar Excel
 
 - Belajar Desain grafis
-  - photshop
-  - ilustrator
+  - photoshop
   - corel draw
 
 - Belajar Data science
